@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/LifeAndDeath/NewPublicRepo/LifeAndDeath/Content/MapAssets/Blueprints/BP_GridGenerator.uasset",
+				"D:/LifeAndDeath/NewPublicRepo/LifeAndDeath/Content/MapAssets/Blueprints/BP_HexGrid.uasset",
 				"C:/Users/buzzt/OneDrive/Documents/GitHub/LifeAndDeath/Content/TaskCharacter/ThirdPerson/Blueprints/BP_Life.uasset",
 				"C:/Users/buzzt/OneDrive/Documents/GitHub/LifeAndDeath/Content/TaskCharacter/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/buzzt/OneDrive/Documents/GitHub/LifeAndDeath/Content/TaskCharacter/ThirdPerson/Blueprints/BP_Death.uasset",
