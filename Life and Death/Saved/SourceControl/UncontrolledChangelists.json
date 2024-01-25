@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Shahi/Desktop/GBC Life&Death/LifeAndDeath/Life and Death/Content/MapAssets/Blueprints/BP_GridGenerator.uasset",
+				"C:/Users/Shahi/Desktop/GBC Life&Death/LifeAndDeath/Life and Death/Content/MapAssets/Maps/Life_and_Death.umap",
+				"C:/Users/Shahi/Desktop/GBC Life&Death/LifeAndDeath/Life and Death/Content/MapAssets/Blueprints/BP_HexGrid.uasset"
+			]
+		}
+	]
+}
